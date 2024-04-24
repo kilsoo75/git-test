@@ -2,3 +2,4 @@ version: 1.0
 kind: yaml
 metadata:
   name: kks
+  age: 50
