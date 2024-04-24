@@ -3,3 +3,4 @@ kind: yaml
 metadata:
   name: kks
   age: 50
+  gender: male
